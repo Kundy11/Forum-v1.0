@@ -43,7 +43,7 @@ session_start();
 <nav>
         <ul>
             <div class="strana"><a href="https://jaknaweby.eu/" target="_blank"><img src="Logo.png" alt="LOGOOOOO"></a></div>
-            <li><a href="home.php">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="pridat_clanek.php">Přidat článek</a></li>
             <li><a href="logout.php">Odhlásit se</a></li>
         </ul>

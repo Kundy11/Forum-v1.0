@@ -27,7 +27,7 @@ session_start();
 					{
 
 						$_SESSION['id'] = $user_data['id'];
-						header("Location: home.php");
+						header("Location: index.php");
 						die;
 					}
 				}
